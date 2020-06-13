@@ -46,6 +46,3 @@ You need to have installed following softwares and libraries before running this
 * __nltk:__ The Natural Language Toolkit (NLTK) is a Python package for natural language processing. 
     * pip install nltk
     * conda install -c anaconda nltk
-    
-## 9. Authors
-•	Manish Vishwakarma - Complete work  
